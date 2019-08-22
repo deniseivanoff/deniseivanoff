@@ -27,7 +27,12 @@ ul.sidenav li a:hover:not(.active) {
     background-color: #00bfb2;
     color: #101727;
 }
-
+.column {
+ float: left;
+ width: 37%;
+ align-content: bottom;
+ padding: 5px;
+}
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .photocolumn {
  float: left;
