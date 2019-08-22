@@ -1,11 +1,11 @@
-body {margin: 0; background-color: #A239CA ; font-family: Lato, sans-serif; color:#E7DFDD; }
+body {margin: 0; background-color: #101727 ; font-family: Merriweather, serif; color:#CCCFD3; }
 
 ul.sidenav {
     list-style-type: none;
     margin: 10;
     padding: 0;
     width: 25%;
-    background-color: #4717F6;
+    background-color: #101727;
     position: fixed;
     height: 90%;
     overflow: auto;
@@ -17,14 +17,14 @@ ul.sidenav li a {
     padding: 8px 16px;
     text-decoration: none;
 }
- 
+
 ul.sidenav li a.active {
-    background-color: #4717F6;
+    background-color: #0E0B16;
     color: white;
 }
 
 ul.sidenav li a:hover:not(.active) {
-    background-color: #0E0B16;
+    background-color: #101727;
     color: white;
 }
 
@@ -36,18 +36,18 @@ div.content {
 img {
   padding: .5em;
   float: left;}
-    
+
 div.header-2 {
     margin-left: 25%;
     padding: 10px 16px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Kaushan Script', Cursive;
     font-size: 68px;
-    font-style: italic;
+
     font-weight: bold;
     letter-spacing: normal;
     line-height: 68px;
     text-transform: none;
-    color: #0E0B16;
+    color: #CCCFD3;
 }
 
 
@@ -89,14 +89,14 @@ footer {
     div.header-2 {
          margin-left: 0;
          padding: 10px 16px;
-         font-family: 'Playfair Display', serif;
+         font-family: 'Kaushan Script', cursive;
          font-size: 48px;
          font-style: italic;
          font-weight: bold;
          letter-spacing: normal;
          line-height: 48px;
          text-transform: none;
-         color: #0E0B16;
+         color: #CCCFD3;
 }
     footer {
      position: relative;
@@ -104,7 +104,7 @@ footer {
     right: 0;
     height: 24px;
 }
-}  
+}
 @media screen and (max-width: 600px) {
     .column {
         width: 100%;
@@ -120,14 +120,14 @@ footer {
     div.header-2 {
          margin-left: 0%;
          padding: 5px 8px;
-         font-family: 'Playfair Display', serif;
+         font-family: 'Kaushan Script', cursive;
          font-size: 18px;
          font-style: italic;
          font-weight: bold;
          letter-spacing: normal;
          line-height: 18px;
          text-transform: none;
-         color: #0E0B16;
+         color: #CCCFD3;
 }
     footer {
      position: relative;
@@ -136,4 +136,3 @@ footer {
     height: 24px;
 }
     }
-
