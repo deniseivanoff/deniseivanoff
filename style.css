@@ -56,6 +56,7 @@ img {
 div.header-2 {
     margin-left: 25%;
     padding: 10px 16px;
+    align-content: bottom;
     font-family: 'Kaushan Script', Cursive;
     font-size: 68px;
 
