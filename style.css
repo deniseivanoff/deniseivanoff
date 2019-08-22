@@ -29,9 +29,9 @@ ul.sidenav li a:hover:not(.active) {
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
+.photocolumn {
  float: left;
- width: 37%;
+ width: 25%;
  align-content: bottom;
  padding: 5px;
 }
