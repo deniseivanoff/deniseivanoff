@@ -32,10 +32,12 @@ ul.sidenav li a:hover:not(.active) {
 .column {
  float: left;
  width: 37%;
+ align-content: bottom;
  padding: 5px;
 }
 .row {
 margin-left: 25%;
+align-content: bottom;
 padding: 10px 16px;
 }
 /* Clear floats after image containers */
