@@ -5,7 +5,7 @@ ul.sidenav {
     margin: 10;
     padding: 0;
     width: 25%;
-    background-color: #3eff8b;
+    background-color: #101727;
     position: fixed;
     height: 90%;
     overflow: auto;
@@ -13,18 +13,18 @@ ul.sidenav {
 
 ul.sidenav li a {
     display: block;
-    color: #E7DFDD;
+    color: #cccfd3;
     padding: 8px 16px;
     text-decoration: none;
 }
 
 ul.sidenav li a.active {
-    background-color: #ffa630;
-    color: white;
+    background-color: #3eff8b;
+    color: #101727;
 }
 
 ul.sidenav li a:hover:not(.active) {
-    background-color: #3eff8b;
+    background-color: #00bfb2;
     color: #101727;
 }
 
