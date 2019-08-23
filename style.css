@@ -82,6 +82,7 @@ div.header-2 {
     height: 0;
     overflow: hidden;
 }
+/*
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -91,6 +92,7 @@ div.header-2 {
     width: 100%;
     height: 100%;
 }
+*/
 .clearfix {
     *zoom:1 /* for IE */
 }
