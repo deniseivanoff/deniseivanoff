@@ -1,5 +1,23 @@
 body {margin: 0; background-color: #101727 ; font-family: Merriweather, serif; color:#CCCFD3; }
 
+/* new bit */
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+/* new bit */
 ul.sidenav {
     list-style-type: none;
     margin: 10;
