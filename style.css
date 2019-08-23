@@ -3,9 +3,9 @@ body {margin: 0; background-color: #101727 ; font-family: Merriweather, serif; c
 /* new bit */
 
 a:link, a:visited {
-  background-color: white;
-  color: black;
-  border: 2px solid green;
+  background-color: #f2ff49;
+  color: #101727;
+  border: 2px solid #cccfd3;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -13,8 +13,8 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: green;
-  color: white;
+  background-color: #00bfb2;
+  color: #101727;
 }
 
 /* new bit */
