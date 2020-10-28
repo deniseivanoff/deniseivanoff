@@ -1,11 +1,12 @@
-body {margin: 0; background-color: #101727 ; font-family: Merriweather, serif; color:#CCCFD3; }
+
+body {margin: 0; background-color: #090126 ; font-family: Merriweather, serif; color:#84B8D9; }
 
 /* new bit */
 
 a:link, a:visited {
-  background-color: #f2ff49;
-  color: #101727;
-  border: 2px solid #cccfd3;
+  background-color: #F2CB9B;
+  color: #090126;
+  border: 2px solid #090126;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -13,8 +14,8 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: #00bfb2;
-  color: #101727;
+  background-color: #84B8D9;
+  color: #090126;
 }
 
 /* new bit */
@@ -23,7 +24,7 @@ ul.sidenav {
     margin: 10;
     padding: 0;
     width: 25%;
-    background-color: #101727;
+    background-color: #090126;
     position: fixed;
     height: 90%;
     overflow: auto;
@@ -31,19 +32,19 @@ ul.sidenav {
 
 ul.sidenav li a {
     display: block;
-    color: #cccfd3;
+    color: #84B8D9;
     padding: 8px 16px;
     text-decoration: none;
 }
 
 ul.sidenav li a.active {
-    background-color: #3eff8b;
-    color: #101727;
+    background-color: #84B8D9;
+    color: #090126;
 }
 
 ul.sidenav li a:hover:not(.active) {
-    background-color: #00bfb2;
-    color: #101727;
+    background-color: #736F34;
+    color: #090126;
 }
 .column {
  float: left;
@@ -89,7 +90,7 @@ div.header-2 {
     letter-spacing: normal;
     line-height: 68px;
     text-transform: none;
-    color: #CCCFD3;
+    color: #84B8D9;
 }
 
 .video-container {
@@ -156,7 +157,7 @@ footer {
          letter-spacing: normal;
          line-height: 48px;
          text-transform: none;
-         color: #CCCFD3;
+         color: #84B8D9;
 }
 .video-container {
    margin-left: 0;
@@ -204,7 +205,7 @@ footer {
          letter-spacing: normal;
          line-height: 18px;
          text-transform: none;
-         color: #CCCFD3;
+         color: #84B8D;
 }
     footer {
      position: relative;
